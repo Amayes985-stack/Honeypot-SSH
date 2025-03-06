@@ -1,0 +1,156 @@
+2025-03-02 17:37:07.819242 | 127.0.0.1 | ls
+2025-03-02 17:37:15.639847 | 127.0.0.1 | cd home
+2025-03-02 17:37:18.347550 | 127.0.0.1 | ls
+2025-03-02 17:37:20.755225 | 127.0.0.1 | exit
+2025-03-02 17:37:23.563026 | 127.0.0.1 | quit
+{"timestamp": "2025-03-02T17:52:40.013317", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T17:52:44.025704", "ip": "127.0.0.1", "command": "cd var", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T17:52:49.341302", "ip": "127.0.0.1", "command": "cd tmp ", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T17:52:52.752321", "ip": "127.0.0.1", "command": "cd home", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T17:52:54.256616", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T18:06:44.573341", "client_ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T18:06:53.393426", "client_ip": "127.0.0.1", "command": "lscsudo", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T18:06:59.043139", "client_ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T18:07:09.071602", "client_ip": "127.0.0.1", "command": "\u0003exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T18:07:12.526626", "client_ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}}
+{"timestamp": "2025-03-02T18:09:45.277427", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:09:52.702407", "ip": "127.0.0.1", "command": "cd Dots", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:09:57.115193", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:10:01.327751", "ip": "127.0.0.1", "command": "sudo su", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-02T18:10:03.933879", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-02T18:10:06.742744", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-02T18:10:15.763215", "ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-02T18:16:10.249402", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:16:19.877936", "ip": "127.0.0.1", "command": "cd cuments", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:16:23.086548", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:16:32.313824", "ip": "127.0.0.1", "command": "cd ds ", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:17:19.657249", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:17:27.579715", "ip": "127.0.0.1", "command": "cd Dcuments", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:17:35.698614", "ip": "127.0.0.1", "command": "\u0018exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:17:37.904625", "ip": "127.0.0.1", "command": "quit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:17:39.810212", "ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:20:59.838523", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:21:04.152043", "ip": "127.0.0.1", "command": "cd Documents", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:21:06.158423", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-02T18:21:12.074731", "ip": "127.0.0.1", "command": "cat todo.txt", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-02T18:21:17.887259", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-02T18:21:19.993464", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:21:28.214521", "ip": "127.0.0.1", "command": "cd Dowoads", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:21:36.535438", "ip": "127.0.0.1", "command": "\u001b[A\u001b[Bcd Downloads", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:21:47.263268", "ip": "127.0.0.1", "command": "cd Documents", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T18:21:49.368231", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-02T18:21:57.790238", "ip": "127.0.0.1", "command": "cat lsnotes.txt", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-02T18:22:07.515395", "ip": "127.0.0.1", "command": "lsnotes.txt", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-02T18:22:13.530787", "ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-02T20:16:41.002596", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T20:16:47.420653", "ip": "127.0.0.1", "command": "cd Documents", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-02T20:16:49.024978", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-02T20:17:05.665567", "ip": "127.0.0.1", "command": "cat lsnotes.txt", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-03T09:02:38.059924", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-03T09:02:43.376867", "ip": "127.0.0.1", "command": "cd Downloads", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-03T09:02:44.982193", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Downloads", "user": "root"}
+{"timestamp": "2025-03-03T09:02:48.392343", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Downloads", "user": "root"}
+{"timestamp": "2025-03-03T09:02:49.796861", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-03T09:02:57.719630", "ip": "127.0.0.1", "command": "cd Documents", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-03T09:02:59.926325", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-03T09:03:06.845111", "ip": "127.0.0.1", "command": "cat todo.txt", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-03T09:03:11.357437", "ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T10:59:02.254334", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T10:59:11.476363", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T10:59:16.689011", "ip": "127.0.0.1", "command": "xit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T10:59:19.998526", "ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:05:24.082035", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:05:31.001121", "ip": "127.0.0.1", "command": "cd Documents", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:05:33.207793", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:05:42.534270", "ip": "127.0.0.1", "command": "cat notext", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:05:52.764364", "ip": "127.0.0.1", "command": "cat to.txt", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:06:01.483866", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:06:06.106314", "ip": "127.0.0.1", "command": "sudo su", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:06:11.719160", "ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:10:52.094417", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:10:57.612628", "ip": "127.0.0.1", "command": "cd Downloads", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:10:58.816342", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Downloads", "user": "root"}
+{"timestamp": "2025-03-05T11:11:03.026823", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Downloads", "user": "root"}
+{"timestamp": "2025-03-05T11:11:05.936326", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:11:07.140446", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:11:11.353500", "ip": "127.0.0.1", "command": "sudo su ", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:11:17.165873", "ip": "127.0.0.1", "command": "ps", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:11:21.477167", "ip": "127.0.0.1", "command": "ps aux", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:11:29.398073", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:11:34.013838", "ip": "127.0.0.1", "command": "cd", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:11:36.420794", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T11:11:41.434852", "ip": "127.0.0.1", "command": "cd etc", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T11:11:42.438392", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/etc", "user": "root"}
+{"timestamp": "2025-03-05T11:11:47.053814", "ip": "127.0.0.1", "command": "cd passwd ", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/etc", "user": "root"}
+{"timestamp": "2025-03-05T11:11:52.970548", "ip": "127.0.0.1", "command": "cd shadow", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/etc", "user": "root"}
+{"timestamp": "2025-03-05T11:11:58.285665", "ip": "127.0.0.1", "command": "cd hosts", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/etc", "user": "root"}
+{"timestamp": "2025-03-05T11:12:01.896316", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/etc", "user": "root"}
+{"timestamp": "2025-03-05T11:12:03.300822", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T11:12:11.421092", "ip": "127.0.0.1", "command": "cd home", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T11:12:12.525011", "ip": "127.0.0.1", "command": "ms", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:12:13.729263", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:12:16.839538", "ip": "127.0.0.1", "command": "cd admin", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T11:12:17.742806", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/admin", "user": "root"}
+{"timestamp": "2025-03-05T11:12:25.265609", "ip": "127.0.0.1", "command": "touch secret_stuff", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/admin", "user": "root"}
+{"timestamp": "2025-03-05T11:12:32.387122", "ip": "127.0.0.1", "command": "cat secret_stuff", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/admin", "user": "root"}
+{"timestamp": "2025-03-05T11:12:41.313791", "ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/admin", "user": "root"}
+{"timestamp": "2025-03-05T11:17:28.724763", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:17:36.547807", "ip": "127.0.0.1", "command": "cd Documents", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:17:37.551368", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:17:45.777052", "ip": "127.0.0.1", "command": "cat todo.txt", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:17:53.494404", "ip": "127.0.0.1", "command": "ls", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:17:57.204464", "ip": "127.0.0.1", "command": "cd ..", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:18:01.720016", "ip": "127.0.0.1", "command": "sudo su", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:18:12.246462", "ip": "127.0.0.1", "command": "exit", "geo": {"status": "fail", "message": "reserved range", "query": "127.0.0.1"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:24:29.971792", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:24:33.284296", "ip": "127.0.0.1", "command": "cd Documents", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:24:34.488487", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:24:36.094177", "ip": "127.0.0.1", "command": "exit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T11:31:43.766353", "ip": "127.0.0.1", "command": "whoami", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:31:54.190450", "ip": "127.0.0.1", "command": "\u0003exit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:31:56.397879", "ip": "127.0.0.1", "command": "quit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:31:58.404387", "ip": "127.0.0.1", "command": "quit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T11:32:00.311073", "ip": "127.0.0.1", "command": "exit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:21:20.837596", "ip": "127.0.0.1", "command": "exit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:21:28.999986", "ip": "127.0.0.1", "command": "clear", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:21:32.109643", "ip": "127.0.0.1", "command": "\u0003exit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:21:36.221784", "ip": "127.0.0.1", "command": "\u0003exit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:21:39.829793", "ip": "127.0.0.1", "command": "exit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:21:54.629883", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:22:00.246225", "ip": "127.0.0.1", "command": "cd ..", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:22:01.250006", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T13:22:03.959052", "ip": "127.0.0.1", "command": "cd user", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T13:22:05.063130", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:22:08.072794", "ip": "127.0.0.1", "command": "cd ..", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T13:22:10.381310", "ip": "127.0.0.1", "command": "cd admin", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T13:22:11.284852", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/admin", "user": "root"}
+{"timestamp": "2025-03-05T13:22:19.609950", "ip": "127.0.0.1", "command": "cd ..", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/admin", "user": "root"}
+{"timestamp": "2025-03-05T13:22:20.715058", "ip": "127.0.0.1", "command": "cd ..", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home", "user": "root"}
+{"timestamp": "2025-03-05T13:22:21.818588", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T13:22:26.733037", "ip": "127.0.0.1", "command": "cd etc", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T13:22:27.636021", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/etc", "user": "root"}
+{"timestamp": "2025-03-05T13:22:33.053441", "ip": "127.0.0.1", "command": "cd ../var", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/etc", "user": "root"}
+{"timestamp": "2025-03-05T13:22:34.157185", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/var", "user": "root"}
+{"timestamp": "2025-03-05T13:22:37.666817", "ip": "127.0.0.1", "command": "cd ..", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/var", "user": "root"}
+{"timestamp": "2025-03-05T13:22:54.703401", "ip": "127.0.0.1", "command": "ls -l", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T13:22:59.317047", "ip": "127.0.0.1", "command": "\u0003exit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T13:23:02.025618", "ip": "127.0.0.1", "command": "quit", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T13:23:04.233227", "ip": "127.0.0.1", "command": "exit ", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/", "user": "root"}
+{"timestamp": "2025-03-05T14:12:10.227975", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T14:12:15.943395", "ip": "127.0.0.1", "command": "cd Documents", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user", "user": "root"}
+{"timestamp": "2025-03-05T14:12:17.246375", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:12:32.190290", "ip": "127.0.0.1", "command": "touch me.txt", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:12:33.494086", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:12:42.516561", "ip": "127.0.0.1", "command": "cat todo.txt", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:12:53.240612", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:13:05.170105", "ip": "127.0.0.1", "command": "mkdir uhb", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:13:06.075404", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:13:08.782939", "ip": "127.0.0.1", "command": "cd uhb", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:13:09.886199", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents/uhb", "user": "root"}
+{"timestamp": "2025-03-05T14:13:13.896297", "ip": "127.0.0.1", "command": "cd ..", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents/uhb", "user": "root"}
+{"timestamp": "2025-03-05T14:13:20.716148", "ip": "127.0.0.1", "command": "rm -r uhb", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:13:24.325621", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:13:30.341010", "ip": "127.0.0.1", "command": "rmdir uhb", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+{"timestamp": "2025-03-05T14:13:31.243557", "ip": "127.0.0.1", "command": "ls", "geo": {"country": "Unknown", "isp": "Unknown"}, "cwd": "/home/user/Documents", "user": "root"}
+
+

